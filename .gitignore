@@ -43,3 +43,5 @@ mypy_cache/
 # Temporary Files
 *.tmp
 *.temp
+
+vectorstore/
